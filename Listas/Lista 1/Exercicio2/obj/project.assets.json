@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicio2\\Exercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicio2\\Exercicio2.csproj",
       "projectName": "Exercicio2",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicio2\\Exercicio2.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicio2\\Exercicio2.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicio2\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

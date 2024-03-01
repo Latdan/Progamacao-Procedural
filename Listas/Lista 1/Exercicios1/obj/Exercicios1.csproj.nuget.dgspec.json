@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicios1\\Exercicios1.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicios1\\Exercicios1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicios1\\Exercicios1.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicios1\\Exercicios1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicios1\\Exercicios1.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicios1\\Exercicios1.csproj",
         "projectName": "Exercicios1",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicios1\\Exercicios1.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicios1\\Exercicios1.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Aula 3\\Exercicios1\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Aulas\\Progamacao-Procedural\\Listas\\Lista 1\\Exercicios1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
